@@ -1,0 +1,12 @@
+{
+  "applinks": {
+        "details": [{
+            "appIDs": ["9MDQVS2Y3Y.celo.URestaurants"],
+            ""paths": [ "*"]
+        }]
+    },
+    "appclips": {
+        "apps": ["9MDQVS2Y3Y.celo.URestaurants.Clip"]
+    }
+
+} 
